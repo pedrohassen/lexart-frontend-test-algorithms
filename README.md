@@ -76,10 +76,15 @@ Function <i>`generateId`</i> generates a random string ID. The ID is composed of
 ---
 
 ## Author
+
+---
+
 ### Pedro Hasse Niemczewski
+
 ---
 
 [Linkedin](https://www.linkedin.com/in/pedrohassen/)
+
 ---
+
 [Github](https://github.com/pedrohassen)
----
