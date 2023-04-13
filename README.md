@@ -4,11 +4,8 @@ This repository contains algorithms and data structures implemented using JavaSc
 This small project is part of a test for a frontend job opportunity at Lexart.
 
 ## FrontEnd Test - Algorithms. The test was comprised of three parts.
-
 ---
 ### TEST ONE
----
-
 <summary><strong>
 Create an algorithm that runs through a one-dimensional array containing letters and numbers:<br />
 - Get an array containing just the letters<br />
@@ -20,8 +17,6 @@ For this I defined a function named <i>`getInfoFromArray`</i>. It takes an array
 
 ---
 ### TEST TWO
----
-
 <summary><strong>
 Create a hashmap (or a simple object in PHP) that contains the elementary functions of addition, subtraction, multiplication, and division.<br />
 - Take into account that the division must not allow 0 dividend<br />
@@ -64,8 +59,6 @@ This Map can be used to easily access and call any of these four functions by si
 
 ---
 ### TEST THREE
----
-
 <summary><strong>
 Create an algorithm that generates the following random ID pattern: XXXX-AAAA-BBBB-CCCC<br />
 - Where XXXX, AAAA, BBBB and CCCC patterns are random alphanumeric<br />
@@ -82,8 +75,8 @@ Function <i>`generateId`</i> generates a random string ID. The ID is composed of
 
 ---
 
-## Autor
-## Pedro Hasse Niemczewski
+## Author
+### Pedro Hasse Niemczewski
 ---
 
 [Linkedin](https://www.linkedin.com/in/pedrohassen/)
